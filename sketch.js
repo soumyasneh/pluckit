@@ -14,7 +14,7 @@ const Body = Matter.Body;
 
 function preload()
 {
-treeIMG=loadImage("pictures/pluckingmangoes/tree.png")	
+treeIMG=loadImage("tree.png")	
 }
 
 function setup() {
